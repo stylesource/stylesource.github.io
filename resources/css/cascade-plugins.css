@@ -26,6 +26,7 @@ overflow: auto;
 height: 1.4px;
 position: absolute;
 clear: none !important;
+overflow: auto;
 width: 1.4px;
 }
 

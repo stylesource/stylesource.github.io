@@ -46,6 +46,14 @@ width: 1px;
 overflow: auto;
 }
 
+.popto {
+height: 1.4px;
+position: absolute;
+clear: none !important;
+overflow: auto;
+width: 1.4px;
+}
+
 .listedn {
 height: 1px;
 position: absolute;

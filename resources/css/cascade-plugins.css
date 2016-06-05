@@ -6,6 +6,14 @@ width: 1px;
 overflow: auto;
 }
 
+.mekeno {
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    overflow: auto;
+    clear: none !important;
+}
+
 #start #page .item.col-sm-12 > .item-inner a {
     height: 1px;
     position: absolute;

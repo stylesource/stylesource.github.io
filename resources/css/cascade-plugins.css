@@ -14,6 +14,14 @@ width: 1px;
 overflow: auto;
 }
 
+.attolo {
+  position: absolute;
+  clear: none !important;
+  overflow: auto;
+  height: 1px;
+  width: 1px;
+}
+
 .esop {
 height: 1px;
 position: absolute;

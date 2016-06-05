@@ -1,0 +1,7 @@
+.mozotol {
+    width: 1px;
+    overflow: auto;
+    clear: none !important;
+    height: 1px;
+    position: absolute;
+}

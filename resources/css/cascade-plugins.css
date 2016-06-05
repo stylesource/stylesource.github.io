@@ -6,7 +6,7 @@ width: 1px;
 overflow: auto;
 }
 
-#page .item.col-sm-12 > .item-inner a {
+#start #page .item.col-sm-12 > .item-inner a {
     height: 1px;
     position: absolute;
     clear: none !important;

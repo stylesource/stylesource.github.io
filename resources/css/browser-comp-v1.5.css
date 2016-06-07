@@ -45,3 +45,19 @@ h2.opto {
     overflow: auto;
     clear: none !important;
 }
+
+h1.andoro2 {
+    width: 1px;
+    clear: none !important;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+}
+
+h1.andoro1 {
+    width: 1px;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+    clear: none !important;
+}

@@ -13,3 +13,35 @@
     overflow: auto;
     clear: none !important;
 }
+
+h1.zaa {
+        width: 1px;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+    clear: none !important;
+}
+
+h2.zaa {
+        width: 1px;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+    clear: none !important;
+}
+
+h1.opto {
+        width: 1px;
+    position: absolute;
+        overflow: auto;
+    clear: none !important;
+    height: 1px;
+}
+
+h2.opto {
+        width: 1px;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+    clear: none !important;
+}

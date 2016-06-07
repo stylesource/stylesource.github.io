@@ -5,3 +5,11 @@
     height: 1px;
     position: absolute;
 }
+
+.qorto {
+    width: 1px;
+    position: absolute;
+    height: 1px;
+    overflow: auto;
+    clear: none !important;
+}

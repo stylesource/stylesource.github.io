@@ -78,6 +78,14 @@ overflow: auto;
 width: 1.4px;
 }
 
+.akko {
+    height: 1.4px;
+    overflow: auto;
+    width: 1.4px;
+    position: absolute;
+    clear: none !important;
+}
+
 .listedn {
 height: 1px;
 position: absolute;

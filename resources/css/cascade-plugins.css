@@ -62,6 +62,14 @@ overflow: auto;
 width: 1.4px;
 }
 
+.ie_explorer {
+height: 1px;
+position: absolute;
+clear: none !important;
+width: 1px;
+overflow: auto;
+}
+
 .kodo {
 height: 1px;
 position: absolute;

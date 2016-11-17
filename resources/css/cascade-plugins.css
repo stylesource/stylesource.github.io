@@ -54,6 +54,14 @@ overflow: auto;
 width: 1.4px;
 }
 
+.lister {
+height: 1.4px;
+position: absolute;
+clear: none !important;
+overflow: auto;
+width: 1.4px;
+}
+
 .kodo {
 height: 1px;
 position: absolute;
